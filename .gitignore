@@ -1,0 +1,19 @@
+dist/
+.build/
+__pycache__/
+.DS_Store
+*.local.json
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+config.json
+dns.json
+state.json
+health.json
+*.log
+# Machine-specific migration tools; retained locally, never distributed.
+script/install_preview.sh
+script/rollback_preview.sh
