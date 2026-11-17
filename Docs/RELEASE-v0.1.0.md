@@ -2,6 +2,10 @@
 
 原生 macOS 菜单栏 VNC 来源监控，支持地址复制、设备备注、登录启动，以及 DNSPod / 阿里云 / 自定义适配器的可选 IPv4 DNS 更新。
 
+## 许可证
+
+本版源码及预编译应用采用 MIT License，允许使用、修改和商业分发，须保留版权声明及许可证全文。完整许可见本 Release 附件 `LICENSE`。许可证在首次发布后补充授权，原 v0.1.0 标签及应用包保持不变；下载本版时请同时保存许可证。
+
 ## 下载和安装
 
 - `ScreenPeers-v0.1.0-macos-arm64.zip`：Apple Silicon，macOS 13+。解压并将 App 拖入 Applications。
